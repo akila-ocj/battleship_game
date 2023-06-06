@@ -1,4 +1,5 @@
 # Battleship Game Algorithms
+Traditionally, Battleship is played between human players. In here, we developed algorithms to play Battleship.
 
 This repository contains various algorithms that are used for solving a variation of the Battleship game. Each algorithm follows a specific strategy, from brute force to greedy algorithms, to calculate optimal moves or to analyze the current game state.
 
